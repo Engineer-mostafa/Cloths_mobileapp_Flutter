@@ -1,4 +1,4 @@
-# Cloths_mobileapp_Flutter
+# Cloths Shop
 This is a design for mini cloths application was built by Flutter
 
 
